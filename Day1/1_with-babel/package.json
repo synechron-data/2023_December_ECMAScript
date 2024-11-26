@@ -1,0 +1,16 @@
+{
+  "name": "with-babel",
+  "version": "1.0.0",
+  "description": "Simple example of using Babel",
+  "private": true,
+  "author": "Manish Sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.23.4",
+    "@babel/core": "^7.23.5",
+    "@babel/preset-env": "^7.23.5"
+  },
+  "dependencies": {
+    "core-js": "^3.33.3"
+  }
+}
